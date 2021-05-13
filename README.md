@@ -5,7 +5,9 @@ We need an account on Github (everything is configured directly on Github) and S
 
 1. Open Sublime Text and Install Package [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
-:small_orange_diamond: Steps On Github
+```
+Steps On Github
+```
 
 #### **Generate new token** on Github → [Personal access tokens](https://github.com/settings/tokens/new)
 
@@ -19,7 +21,9 @@ We need an account on Github (everything is configured directly on Github) and S
 
 #### This is a your **gist ID**
 
-:small_orange_diamond: Steps in Sublime Text
+```
+Steps in Sublime Text
+```
 
 #### **Configure plugin Sync Settings**
 
