@@ -17,9 +17,9 @@ Steps On Github
 
 3. Click Your avatar menu → Your gists → Create Gist with any label (for example - ST_Settings) → Create secret gist (you must insert any symbol in field)
 
-4. Click on Gist label → go address bar → select all symbols after your Github login (looks like - 76ee1c24762d5c33c020784f760)
-
 #### This is a your **gist ID**
+
+4. Click on Gist label → go address bar → select all symbols after your Github login (looks like - 76ee1c24762d5c33c020784f760)
 
 ```
 Steps in Sublime Text
