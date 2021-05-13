@@ -13,7 +13,7 @@ Steps On Github
 
 2. Click Your avatar menu → Settings → Developer setings → Personal access tokens - Generate new token with any label (for example - Settings_Token) and mark only one checkbox - «gist»
 
-#### **Create new Gist**
+##### **Create new Gist**
 
 3. Click Your avatar menu → Your gists → Create Gist with any label (for example - ST_Settings) → Create secret gist (you must insert any symbol in field)
 
@@ -34,7 +34,7 @@ Steps in Sublime Text
 7. Fill "access_token" and "gist_id" in User Sync Settings
 ```
 {
-  "access_token": "insert your Token label from step 2",
+  "access_token": "insert your Token from step 2",
   "gist_id": "insert your gist ID from step 4",
   "auto_upgrade": true (or false)
 }
