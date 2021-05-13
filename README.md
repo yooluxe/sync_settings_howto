@@ -34,7 +34,7 @@ Steps in Sublime Text
 7. Fill "access_token" and "gist_id" in User Sync Settings
 ```
 {
-  "access_token": "insert your Token label from step 3",
+  "access_token": "insert your Token label from step 2",
   "gist_id": "insert your gist ID from step 4",
   "auto_upgrade": true (or false)
 }
