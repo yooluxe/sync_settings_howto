@@ -17,9 +17,9 @@ Steps On Github
 
 3. Click Your avatar menu → Your gists → Create Gist with any label (for example - ST_Settings) → Create secret gist (you must insert any symbol in field)
 
-#### This is a your **gist ID**
+#### Take your **gist ID**
 
-4. Click on Gist label → go address bar → select all symbols after your Github login (looks like - 76ee1c24762d5c33c020784f760)
+4. Click on Gist label → go address bar → select all symbols (your gist ID) after your Github login (looks like - 76ee1c24762d5c33c020784f760)
 
 ```
 Steps in Sublime Text
@@ -34,8 +34,8 @@ Steps in Sublime Text
 7. Fill "access_token" and "gist_id" in User Sync Settings
 ```
 {
-  "access_token": "insert your Token name from step 3",
-  "gist_id": "insert your gist ID from step 6",
+  "access_token": "insert your Token label from step 3",
+  "gist_id": "insert your gist ID from step 4",
   "auto_upgrade": true (or false)
 }
 ```
