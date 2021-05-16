@@ -1,7 +1,16 @@
 
-# How to Sync your Sublime Text settings on Github Gist
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## How to Sync your Sublime Text settings on Github Gist.
 
 We need an account on Github (everything is configured directly on Github) and Sublime Text 
+
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+![preview](../main/docs/view.jpg)
+
+
+<img src="../main/docs/spacer.png" width="1" height="1">
 
 1. Open Sublime Text and Install Package [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
@@ -41,7 +50,9 @@ Steps in Sublime Text
 ```
 8. Now save. Thats All :+1:
 
-# How to Use Sync Settings plugin
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## How to Use Sync Settings plugin.
 
 1. Send to yours GIST Sublime Text settings → command → Sync Settings: Upload
 
