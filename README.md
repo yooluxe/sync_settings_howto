@@ -3,7 +3,7 @@
 
 ## How to Sync your Sublime Text settings on Github Gist.
 
-We need an account on Github (everything is configured directly on Github) and Sublime Text 
+You need an account on Github (everything is configured directly on Github) and Sublime Text 
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
