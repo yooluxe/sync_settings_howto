@@ -7,7 +7,7 @@ You need an account on Github (everything is configured directly on Github) and 
 
 <img src="docs/spacer.png" width="1" height="1">
 
-<img src="docs/view.png">
+<img src="docs/view.jpg">
 
 <img src="docs/spacer.png" width="1" height="1">
 
