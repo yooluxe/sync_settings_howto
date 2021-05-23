@@ -1,16 +1,15 @@
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 ## How to Sync your Sublime Text settings on Github Gist.
 
 You need an account on Github (everything is configured directly on Github) and Sublime Text 
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
-![preview](../main/docs/view.jpg)
+<img src="docs/view.png">
 
-
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 1. Open Sublime Text and Install Package [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
