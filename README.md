@@ -3,11 +3,7 @@
 
 You need an account on Github (everything is configured directly on Github) and Sublime Text 
 
-<img src="docs/spacer.png" width="1" height="1">
-
 <img src="docs/view.jpg">
-
-<img src="docs/spacer.png" width="1" height="1">
 
 1. Open Sublime Text and Install Package [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
@@ -46,8 +42,6 @@ Steps in Sublime Text
 }
 ```
 8. Now save. Thats All :+1:
-
-<img src="../main/docs/spacer.png" width="1" height="1">
 
 ## How to Use Sync Settings plugin.
 
