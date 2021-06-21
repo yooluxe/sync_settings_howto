@@ -1,7 +1,7 @@
 
 ## How to Sync your Sublime Text settings on Github Gist.
 
-You need an account on Github (everything is configured directly on Github) and Sublime Text. View on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae).
+You need an account on Github (everything is configured directly on Github) and Sublime Text. 
 
 <img src="docs/view.jpg">
 
