@@ -49,4 +49,4 @@ Steps in Sublime Text
 
 2. Upload your Sublime Text settings to any computer with the Sync Settings plugin installed (don't forget about yours "access_token" and "gist_id") → command → Sync Settings: Download
 
-#### Read this on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae).
+#### View on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae).
