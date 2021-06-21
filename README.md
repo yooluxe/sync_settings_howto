@@ -1,4 +1,3 @@
-
 <img src="docs/spacer.png" width="1" height="1">
 
 ## How to Sync your Sublime Text settings on Github Gist.
@@ -56,3 +55,5 @@ Steps in Sublime Text
 1. Send to yours GIST Sublime Text settings → command → Sync Settings: Upload
 
 2. Upload your Sublime Text settings to any computer with the Sync Settings plugin installed (don't forget about yours "access_token" and "gist_id") → command → Sync Settings: Download
+
+This article on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae)
