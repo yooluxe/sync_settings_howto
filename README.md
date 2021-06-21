@@ -1,4 +1,3 @@
-<img src="docs/spacer.png" width="1" height="1">
 
 ## How to Sync your Sublime Text settings on Github Gist.
 
