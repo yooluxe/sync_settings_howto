@@ -1,7 +1,7 @@
 
 ## How to Sync your Sublime Text settings on Github Gist.
 
-You need an account on Github (everything is configured directly on Github) and Sublime Text 
+You need an account on Github (everything is configured directly on Github) and Sublime Text. View on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae).
 
 <img src="docs/view.jpg">
 
@@ -48,5 +48,3 @@ Steps in Sublime Text
 1. Send to yours GIST Sublime Text settings → command → Sync Settings: Upload
 
 2. Upload your Sublime Text settings to any computer with the Sync Settings plugin installed (don't forget about yours "access_token" and "gist_id") → command → Sync Settings: Download
-
-#### View on [Medium](https://luxelego.medium.com/how-to-sync-your-sublime-text-settings-on-github-gist-3431aae118ae).
